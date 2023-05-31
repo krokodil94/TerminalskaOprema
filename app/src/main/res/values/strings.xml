@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rssReader</string>
+    <string name="action_switch_theme">Switch Theme</string>
+    <string name="detail_image_content_description">Detail Image</string>
+    <string name="detail_activity_label">Detail Activity</string>
+
+</resources>
